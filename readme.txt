@@ -1,0 +1,1 @@
+a stock selected project designed with scrapy.

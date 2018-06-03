@@ -1,0 +1,10 @@
+{"code": "603477", "name": "\u632f\u9759\u80a1\u4efd", "numchange": -29381.0, "numchangeRate": -53.2293, "endDate": "2018-03-31T00:00:00", "previousDate": "2017-12-31T00:00:00"}
+{"code": "603848", "name": "\u597d\u592a\u592a", "numchange": -8772.0, "numchangeRate": -31.397, "endDate": "2018-03-31T00:00:00", "previousDate": "2017-12-31T00:00:00"}
+{"code": "600025", "name": "\u534e\u80fd\u6c34\u7535", "numchange": -213310.0, "numchangeRate": -37.1601, "endDate": "2018-03-31T00:00:00", "previousDate": "2017-12-31T00:00:00"}
+{"code": "300729", "name": "\u4e50\u6b4c\u80a1\u4efd", "numchange": -5815.0, "numchangeRate": -30.1843, "endDate": "2018-03-31T00:00:00", "previousDate": "2017-12-31T00:00:00"}
+{"code": "300741", "name": "\u534e\u5b9d\u80a1\u4efd", "numchange": -52202.0, "numchangeRate": -44.6457, "endDate": "2018-03-31T00:00:00", "previousDate": "2018-03-01T00:00:00"}
+{"code": "603477", "name": "\u632f\u9759\u80a1\u4efd", "numchange": -29381.0, "numchangeRate": -53.2293, "endDate": "2018-03-31T00:00:00", "previousDate": "2017-12-31T00:00:00"}
+{"code": "603848", "name": "\u597d\u592a\u592a", "numchange": -8772.0, "numchangeRate": -31.397, "endDate": "2018-03-31T00:00:00", "previousDate": "2017-12-31T00:00:00"}
+{"code": "300729", "name": "\u4e50\u6b4c\u80a1\u4efd", "numchange": -5815.0, "numchangeRate": -30.1843, "endDate": "2018-03-31T00:00:00", "previousDate": "2017-12-31T00:00:00"}
+{"code": "600025", "name": "\u534e\u80fd\u6c34\u7535", "numchange": -213310.0, "numchangeRate": -37.1601, "endDate": "2018-03-31T00:00:00", "previousDate": "2017-12-31T00:00:00"}
+{"code": "300741", "name": "\u534e\u5b9d\u80a1\u4efd", "numchange": -52202.0, "numchangeRate": -44.6457, "endDate": "2018-03-31T00:00:00", "previousDate": "2018-03-01T00:00:00"}
